@@ -1,6 +1,6 @@
 <div align="center">
     <h1><img src="assets/logo.png"width="30px"><br>Roblox Tracker</h1>
-    <img height="300" src="https://i.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
+    <img width="400" src="https://i.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
     <h3>A super simple Roblox user tracker on Discord using webhooks.</h3>
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-bluesvg)](https://www.python.org/download/releases/3.0/)
